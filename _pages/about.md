@@ -10,13 +10,13 @@ redirect_from:
 
 <h1 style="margin-bottom: 20px;">About Me</h1>
 
-I am a senior undergraduate student majoring in Artificial Intelligence (**Yao Class**) at the <a href="https://iiis.tsinghua.edu.cn/en/">Institute for Interdisciplinary Information Sciences (IIIS)</a>, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, where I am also minoring in Mathematics.
+I am a senior undergraduate student majoring in Artificial Intelligence (Yao Class) at the <a href="https://iiis.tsinghua.edu.cn/en/">Institute for Interdisciplinary Information Sciences (IIIS)</a>, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, where I am also minoring in Mathematics.
 
-My research interests lie in high-quality and efficient **Generative Models across various modalities**, including image, video, audio, speech, and language.
+My research interests lie in high-quality and efficient Generative Models across various modalities, including image, video, audio, speech, and language.
 
-My research journey includes an **independent project** on speech and audio synthesis, an **on-site collaboration** with Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/) (UMass Amherst / MIT-IBM Watson AI Lab) on speech language models and video-to-audio generation, and a **remote collaboration** with Prof. [Zhuang Liu](https://liuzhuang13.github.io/) (Princeton University) on image generative models.
+My research journey includes an independent project on speech and audio synthesis, an collaboration with Prof. [Chuang Gan](https://people.csail.mit.edu/ganchuang/) (UMass Amherst / MIT-IBM Watson AI Lab) on speech language models and video-to-audio generation, and a collaboration with Prof. [Zhuang Liu](https://liuzhuang13.github.io/) (Princeton University) on image generative models.
 
-**I am applying to Ph.D. programs for Fall 2026 admission.**
+I am applying to Ph.D. programs for Fall 2026 admission.
 
 For more details, please see my [CV](/files/Tianze_Luo_CV.pdf).
 
