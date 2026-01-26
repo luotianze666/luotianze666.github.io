@@ -34,7 +34,7 @@ My research experience encompasses an independent project in speech and audio sy
 *AAAI Workshop on Audio-Centric AI, 2026* <br>
 [[PDF]](/files/BSLM.pdf){: target="_blank"} [[Demo]](https://luotianze666.github.io/demo/){: target="_blank"}
 
-**3. [ICLR 2026] SoFlow: Solution Flow Models for One-Step Generative Modeling** <br>
+**3. SoFlow: Solution Flow Models for One-Step Generative Modeling** <br>
 **Tianze Luo**, Haotian Yuan, Zhuang Liu <br>
 *International Conference on Learning Representations (ICLR), 2026* <br>
 [[PDF]](/files/SoFlow.pdf){: target="_blank"} [[Code]](https://github.com/luotianze666/SoFlow){: target="_blank"}
