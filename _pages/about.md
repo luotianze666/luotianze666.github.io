@@ -14,7 +14,7 @@ I am a senior undergraduate student majoring in Artificial Intelligence (Yao Cla
 
 My research interests lie in high-quality and efficient Generative Models across various modalities, including image, video, audio, speech, and language.
 
-My research experience encompasses an independent project in speech and audio synthesis. I have been fortunate to collaborate with Prof. Chuang Gan on speech language models and video-to-audio generation, with Prof. Zhuang Liu on image generative models.
+My research experience encompasses an independent project in speech and audio synthesis. I have collaborated with Prof. Chuang Gan on speech language models and video-to-audio generation, with Prof. Zhuang Liu on image generative models.
 
 ---
 
