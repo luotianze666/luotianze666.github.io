@@ -44,6 +44,6 @@ My research experience encompasses an independent project in speech and audio sy
 *Preprint* <br> 
 [[PDF]](/files/SoundVCM.pdf){: target="_blank"} [[Code]](/files/SoundVCM.zip)
 
-**5. [Under Review] i1: Simple and Open Recipes for Pre-training Strong Text-to-Image Models**
+**5. [Under Review] i1: Simple and Open Recipes for Pre-training Strong Text-to-Image Models** <br>
 Boya Zeng, **Tianze Luo**, Shu Pu, Jucheng Shen, Taiming Lu, Gabriel Herbert Sarch, Zhuang Liu
 ---
