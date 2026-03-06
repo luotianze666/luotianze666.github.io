@@ -41,7 +41,9 @@ My research experience encompasses an independent project in speech and audio sy
 
 **4. [Under Review] SoundVCM: Efficient Video-to-Audio Generation with Velocity Consistency Models** <br>
 **Tianze Luo**, Xingchen Miao, Yang Zhang, Lie Lu, Chuang Gan <br>
-*Preprint* <br>
+*Preprint* <br> 
 [[PDF]](/files/SoundVCM.pdf){: target="_blank"} [[Code]](/files/SoundVCM.zip)
 
+**5. [Under Review] i1: Simple and Open Recipes for Pre-training Strong Text-to-Image Models**
+Boya Zeng, **Tianze Luo**, Shu Pu, Jucheng Shen, Taiming Lu, Gabriel Herbert Sarch, Zhuang Liu
 ---
