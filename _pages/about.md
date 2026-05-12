@@ -10,7 +10,7 @@ redirect_from:
 
 <h1 style="margin-bottom: 20px;">About Me</h1>
 
-I am a senior undergraduate student majoring in Artificial Intelligence (Yao Class) at the <a href="https://iiis.tsinghua.edu.cn/en/">Institute for Interdisciplinary Information Sciences (IIIS)</a>, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, where I am also minoring in Mathematics.
+I am a senior undergraduate student majoring in Artificial Intelligence at the <a href="https://iiis.tsinghua.edu.cn/en/">Institute for Interdisciplinary Information Sciences (IIIS)</a>, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, where I am also minoring in Mathematics.
 
 My research interests are centered on advancing the frontiers of generative models across a broad range of data modalities, including, but not limited to, image, video, audio, speech, and language.
 
@@ -45,7 +45,7 @@ My research interests are centered on advancing the frontiers of generative mode
 **5. [Under Review] i1: Simple and Open Recipes for Pre-training Strong Text-to-Image Models** <br>
 Boya Zeng, **Tianze Luo**, Shu Pu, Jucheng Shen, Taiming Lu, Gabriel Herbert Sarch, Zhuang Liu <br>
 
-**5. [Under Review] What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching** <br>
+**6. [Under Review] What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching** <br>
 **Tianze Luo**, Haofeng Huang, Yuan Yao <br>
 
 ---
