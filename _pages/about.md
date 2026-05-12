@@ -45,7 +45,7 @@ My research interests are centered on advancing the frontiers of generative mode
 **5. [Under Review] i1: Simple and Open Recipes for Pre-training Strong Text-to-Image Models** <br>
 Boya Zeng, **Tianze Luo**, Shu Pu, Jucheng Shen, Taiming Lu, Gabriel Herbert Sarch, Zhuang Liu <br>
 
-**6. [Under Review] What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching** <br>
+**6. [Under Review] What kills `v`-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching** <br>
 **Tianze Luo**, Haofeng Huang, Yuan Yao <br>
 
 ---
