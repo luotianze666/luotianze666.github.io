@@ -12,9 +12,7 @@ redirect_from:
 
 I am a senior undergraduate student majoring in Artificial Intelligence (Yao Class) at the <a href="https://iiis.tsinghua.edu.cn/en/">Institute for Interdisciplinary Information Sciences (IIIS)</a>, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, where I am also minoring in Mathematics.
 
-My research interests lie in high-quality and efficient Generative Models across various modalities, including image, video, audio, speech, and language.
-
-My research experience encompasses an independent project in speech and audio synthesis. I have collaborated with Prof. Chuang Gan on speech language models and video-to-audio generation, with Prof. Zhuang Liu on image generative models.
+My research interests are centered on advancing the frontiers of generative models across a broad range of data modalities, including, but not limited to, image, video, audio, speech, and language.
 
 ---
 
@@ -39,12 +37,15 @@ My research experience encompasses an independent project in speech and audio sy
 *International Conference on Learning Representations (ICLR), 2026* <br>
 [[PDF]](/files/SoFlow.pdf){: target="_blank"} [[Code]](https://github.com/luotianze666/SoFlow){: target="_blank"}
 
-**4. [Under Review] SoundVCM: Efficient Video-to-Audio Generation with Velocity Consistency Models** <br>
+**4. SoundVCM: Efficient Video-to-Audio Generation with Velocity Consistency Models** <br>
 **Tianze Luo**, Xingchen Miao, Yang Zhang, Lie Lu, Chuang Gan <br>
 *Preprint* <br> 
 [[PDF]](/files/SoundVCM.pdf){: target="_blank"} [[Code]](/files/SoundVCM.zip)
 
 **5. [Under Review] i1: Simple and Open Recipes for Pre-training Strong Text-to-Image Models** <br>
 Boya Zeng, **Tianze Luo**, Shu Pu, Jucheng Shen, Taiming Lu, Gabriel Herbert Sarch, Zhuang Liu <br>
+
+**5. [Under Review] What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching** <br>
+**Tianze Luo**, Haofeng Huang, Yuan Yao <br>
 
 ---
