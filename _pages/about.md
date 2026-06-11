@@ -42,9 +42,11 @@ My research interests are centered on advancing the frontiers of generative mode
 *Preprint* <br> 
 [[PDF]](/files/SoundVCM.pdf){: target="_blank"} [[Code]](/files/SoundVCM.zip)
 
-**5. [Under Review] i1: Simple and Open Recipes for Pre-training Strong Text-to-Image Models** <br>
+**5. i1: Simple and Open Recipes for Pre-training Strong Text-to-Image Models** <br>
 Boya Zeng, **Tianze Luo**, Shu Pu, Jucheng Shen, Taiming Lu, Gabriel Herbert Sarch, Zhuang Liu <br>
-[[PDF](https://arxiv.org/abs/2606.11289)][[`model`](https://huggingface.co/zlab-princeton/i1-3B)][[`dataset`](https://huggingface.co/datasets/zlab-princeton/i1-captions)][[`project page`](https://zlab-princeton.github.io/i1/)]
+*Preprint* <br> 
+[[PDF]](https://arxiv.org/abs/2606.11289){: target="_blank"}[[Model]](https://huggingface.co/zlab-princeton/i1-3B){: target="_blank"}[[Dataset]](https://huggingface.co/datasets/zlab-princeton/i1-captions){: 
+target="_blank"}[[Project Page]](https://zlab-princeton.github.io/i1/){: target="_blank"}
 
 **6. [Under Review] What kills `v`-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching** <br>
 **Tianze Luo**, Haofeng Huang, Yuan Yao <br>
