@@ -10,7 +10,7 @@ redirect_from:
 
 <h1 style="margin-bottom: 20px;">About Me</h1>
 
-I am a senior undergraduate student majoring in Artificial Intelligence at the <a href="https://iiis.tsinghua.edu.cn/en/">Institute for Interdisciplinary Information Sciences (IIIS)</a>, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, where I am also minoring in Mathematics.
+I am a Ph.D. student at the <a href="https://collegeai.tsinghua.edu.cn/en/"> Colledge of AI </a>, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>.
 
 My research interests are centered on advancing the frontiers of generative models across a broad range of data modalities, including, but not limited to, image, video, audio, speech, and language.
 
@@ -48,7 +48,7 @@ Boya Zeng, **Tianze Luo**, Shu Pu, Jucheng Shen, Taiming Lu, Gabriel Herbert Sar
 [[PDF]](https://arxiv.org/abs/2606.11289){: target="_blank"} [[Model]](https://huggingface.co/zlab-princeton/i1-3B){: target="_blank"} [[Dataset]](https://huggingface.co/datasets/zlab-princeton/i1-captions){: 
 target="_blank"} [[Project Page]](https://zlab-princeton.github.io/i1/){: target="_blank"}
 
-**6. [Under Review] What kills `v`-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching** <br>
+**6. What kills `v`-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching** <br>
 **Tianze Luo**, Haofeng Huang, Yuan Yao <br>
-
+**NeurIPS 2026, Spotlight**
 ---
