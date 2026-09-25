@@ -51,4 +51,5 @@ target="_blank"} [[Project Page]](https://zlab-princeton.github.io/i1/){: target
 **6. What kills `v`-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching** <br>
 **Tianze Luo**, Haofeng Huang, Yuan Yao <br>
 *NeurIPS 2026, Spotlight* <br> 
+
 ---
