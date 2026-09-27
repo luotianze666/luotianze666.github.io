@@ -24,32 +24,32 @@ My research interests are centered on advancing the frontiers of generative mode
 
 **1. WaveFM: A High-Fidelity and Efficient Vocoder Based on Flow Matching** <br>
 **Tianze Luo**, Xingchen Miao, Wenbo Duan <br>
-*NAACL 2025, Main Conference* <br>
+**NAACL 2025, Main Conference** <br>
 [[PDF]](https://arxiv.org/abs/2503.16689){: target="_blank"} [[Code]](https://github.com/luotianze666/WaveFM){: target="_blank"}
 
 **2. BSLM: A Bi-Level Speech-Language Model for the Joint Modeling of Discrete and Continuous Tokens** <br>
 **Tianze Luo**, Zixin Wang, Kaizhi Qian, Yang Zhang, Chuang Gan <br>
-*AAAI Workshop on Audio-Centric AI, 2026* <br>
+**AAAI Workshop on Audio-Centric AI, 2026** <br>
 [[PDF]](/files/BSLM.pdf){: target="_blank"} [[Demo]](https://luotianze666.github.io/demo/){: target="_blank"}
 
 **3. SoFlow: Solution Flow Models for One-Step Generative Modeling** <br>
 **Tianze Luo**, Haotian Yuan, Zhuang Liu <br>
-*International Conference on Learning Representations (ICLR), 2026* <br>
+**ICLR 2026** <br>
 [[PDF]](/files/SoFlow.pdf){: target="_blank"} [[Code]](https://github.com/luotianze666/SoFlow){: target="_blank"}
 
 **4. SoundVCM: Efficient Video-to-Audio Generation with Velocity Consistency Models** <br>
 **Tianze Luo**, Xingchen Miao, Yang Zhang, Lie Lu, Chuang Gan <br>
-*Preprint* <br> 
+Preprint <br> 
 [[PDF]](/files/SoundVCM.pdf){: target="_blank"} [[Code]](/files/SoundVCM.zip)
 
 **5. i1: Simple and Open Recipes for Strong Text-to-Image Models** <br>
 Boya Zeng, **Tianze Luo**, Shu Pu, Jucheng Shen, Taiming Lu, Gabriel Herbert Sarch, Zhuang Liu <br>
-*Preprint* <br> 
+Preprint <br> 
 [[PDF]](https://arxiv.org/abs/2606.11289){: target="_blank"} [[Model]](https://huggingface.co/zlab-princeton/i1-3B){: target="_blank"} [[Dataset]](https://huggingface.co/datasets/zlab-princeton/i1-captions){: 
 target="_blank"} [[Project Page]](https://zlab-princeton.github.io/i1/){: target="_blank"}
 
 **6. What kills `v`-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matching** <br>
 **Tianze Luo**, Haofeng Huang, Yuan Yao <br>
-*{NeurIPS 2026, Spotlight **(Top 1.3% among 30709 papers)**}* <br> 
+**NeurIPS 2026, Spotlight (Top 1.3% among 30709 papers)**  <br> 
 
 ---
