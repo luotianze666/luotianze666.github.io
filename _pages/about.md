@@ -10,7 +10,7 @@ redirect_from:
 
 <h1 style="margin-bottom: 20px;">About Me</h1>
 
-I am a Ph.D. student at the <a href="https://collegeai.tsinghua.edu.cn/en/"> College of AI </a>, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>.
+I am a Ph.D. student at the <a href="https://collegeai.tsinghua.edu.cn/en/"> College of AI</a>, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>.
 
 My research interests are centered on advancing the frontiers of generative models across a broad range of data modalities, including, but not limited to, image, video, audio, speech, and language.
 
