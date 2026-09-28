@@ -29,7 +29,7 @@ My research interests are centered on advancing the frontiers of generative mode
 
 **2. BSLM: A Bi-Level Speech-Language Model for the Joint Modeling of Discrete and Continuous Tokens** <br>
 **Tianze Luo**, Zixin Wang, Kaizhi Qian, Yang Zhang, Chuang Gan <br>
-**AAAI Workshop on Audio-Centric AI, 2026** <br>
+**Audio-Centric AI Workshop @ AAAI 2026** <br>
 [[PDF]](/files/BSLM.pdf){: target="_blank"} [[Demo]](https://luotianze666.github.io/demo/){: target="_blank"}
 
 **3. SoFlow: Solution Flow Models for One-Step Generative Modeling** <br>
@@ -39,7 +39,7 @@ My research interests are centered on advancing the frontiers of generative mode
 
 **4. SoundVCM: Efficient Video-to-Audio Generation with Velocity Consistency Models** <br>
 **Tianze Luo**, Xingchen Miao, Yang Zhang, Lie Lu, Chuang Gan <br>
-Preprint <br> 
+**BeNTo Workshop @ NeurIPS 2026** <br> 
 [[PDF]](/files/SoundVCM.pdf){: target="_blank"} [[Code]](/files/SoundVCM.zip)
 
 **5. i1: Simple and Open Recipes for Strong Text-to-Image Models** <br>
